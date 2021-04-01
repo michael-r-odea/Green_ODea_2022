@@ -4,3 +4,5 @@ This repository contains R &amp; Python code for analyzing single-cell RNA seque
 Single-cell RNA sequencing data from Hammond et al. (2019) can be obtained from the NIH GEO database (GSE121654). Single-cell RNA-sequencing data from Zhong et al. (2018) can be obtained from the NIH GEO database (GSE104276). 
 
 Requires R version ≥3.6. Python version 3.7 was used for generating stacked violin plots. 
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4655589.svg)](https://doi.org/10.5281/zenodo.4655589)
