@@ -1,0 +1,726 @@
+[1] "rappdirs"
+version 
+"0.3.3" 
+[1] "rtracklayer"
+ version 
+"1.52.1" 
+[1] "scattermore"
+version 
+  "0.7" 
+[1] "R.methodsS3"
+version 
+"1.8.1" 
+[1] "datasets"
+version 
+"4.1.1" 
+[1] "coda"
+ version 
+"0.19-4" 
+[1] "SeuratObject"
+version 
+"4.0.4" 
+[1] "tidyr"
+version 
+"1.1.4" 
+[1] "ggplot2"
+version 
+"3.3.5" 
+[1] "bit64"
+version 
+"4.0.5" 
+[1] "knitr"
+version 
+ "1.37" 
+[1] "R.utils"
+ version 
+"2.11.0" 
+[1] "irlba"
+version 
+"2.3.5" 
+[1] "DelayedArray"
+ version 
+"0.18.0" 
+[1] "rpart"
+ version 
+"4.1-15" 
+[1] "data.table"
+ version 
+"1.14.2" 
+[1] "KEGGREST"
+ version 
+"1.32.0" 
+[1] "RCurl"
+   version 
+"1.98-1.5" 
+[1] "AnnotationFilter"
+ version 
+"1.16.0" 
+[1] "doParallel"
+ version 
+"1.0.16" 
+[1] "generics"
+version 
+"0.1.1" 
+[1] "BiocGenerics"
+ version 
+"0.38.0" 
+[1] "GenomicFeatures"
+ version 
+"1.44.2" 
+[1] "cowplot"
+version 
+"1.1.1" 
+[1] "RSQLite"
+version 
+"2.2.9" 
+[1] "RANN"
+version 
+"2.6.1" 
+[1] "future"
+ version 
+"1.23.0" 
+[1] "bit"
+version 
+"4.0.4" 
+[1] "tzdb"
+version 
+"0.2.0" 
+[1] "spatstat.data"
+version 
+"2.1-0" 
+[1] "xml2"
+version 
+"1.3.3" 
+[1] "lubridate"
+version 
+"1.8.0" 
+[1] "httpuv"
+version 
+"1.6.3" 
+[1] "ggsci"
+version 
+  "2.9" 
+[1] "SummarizedExperiment"
+ version 
+"1.22.0" 
+[1] "assertthat"
+version 
+"0.2.1" 
+[1] "tidyverse"
+version 
+"1.3.1" 
+[1] "viridis"
+version 
+"0.6.2" 
+[1] "apeglm"
+ version 
+"1.14.0" 
+[1] "xfun"
+version 
+ "0.29" 
+[1] "tximport"
+ version 
+"1.20.0" 
+[1] "hms"
+version 
+"1.1.1" 
+[1] "promises"
+  version 
+"1.2.0.1" 
+[1] "fansi"
+version 
+"0.5.0" 
+[1] "restfulr"
+ version 
+"0.0.13" 
+[1] "progress"
+version 
+"1.2.2" 
+[1] "dendextend"
+ version 
+"1.15.2" 
+[1] "dbplyr"
+version 
+"2.1.1" 
+[1] "readxl"
+version 
+"1.3.1" 
+[1] "htmlwidgets"
+version 
+"1.5.4" 
+[1] "igraph"
+version 
+"1.2.9" 
+[1] "DBI"
+version 
+"1.1.1" 
+[1] "geneplotter"
+ version 
+"1.70.0" 
+[1] "tmvnsim"
+version 
+"1.0-2" 
+[1] "reshape"
+version 
+"0.8.8" 
+[1] "spatstat.geom"
+version 
+"2.3-0" 
+[1] "DEGreport"
+ version 
+"1.28.0" 
+[1] "utils"
+version 
+"4.1.1" 
+[1] "stats4"
+version 
+"4.1.1" 
+[1] "purrr"
+version 
+"0.3.4" 
+[1] "ellipsis"
+version 
+"0.3.2" 
+[1] "dplyr"
+version 
+"1.0.7" 
+[1] "ggpubr"
+version 
+"0.4.0" 
+[1] "backports"
+version 
+"1.4.0" 
+[1] "annotate"
+ version 
+"1.70.0" 
+[1] "deldir"
+version 
+"1.0-6" 
+[1] "biomaRt"
+ version 
+"2.48.3" 
+[1] "MatrixGenerics"
+version 
+"1.4.3" 
+[1] "vctrs"
+version 
+"0.3.8" 
+[1] "Biobase"
+ version 
+"2.52.0" 
+[1] "ensembldb"
+ version 
+"2.16.4" 
+[1] "Cairo"
+   version 
+"1.5-12.2" 
+[1] "ROCR"
+ version 
+"1.0-11" 
+[1] "abind"
+version 
+"1.4-5" 
+[1] "RcppEigen"
+    version 
+"0.3.3.9.1" 
+[1] "cachem"
+version 
+"1.0.6" 
+[1] "withr"
+version 
+"2.4.3" 
+[1] "lasso2"
+ version 
+"1.2-22" 
+[1] "bdsmatrix"
+version 
+"1.3-4" 
+[1] "vroom"
+version 
+"1.5.7" 
+[1] "sctransform"
+version 
+"0.3.2" 
+[1] "GenomicAlignments"
+ version 
+"1.28.0" 
+[1] "prettyunits"
+version 
+"1.1.1" 
+[1] "mclust"
+version 
+"5.4.8" 
+[1] "goftest"
+version 
+"1.2-3" 
+[1] "mnormt"
+version 
+"2.0.2" 
+[1] "cluster"
+version 
+"2.1.2" 
+[1] "ape"
+version 
+  "5.5" 
+[1] "lazyeval"
+version 
+"0.2.2" 
+[1] "crayon"
+version 
+"1.4.2" 
+[1] "genefilter"
+ version 
+"1.74.1" 
+[1] "edgeR"
+ version 
+"3.34.1" 
+[1] "pkgconfig"
+version 
+"2.0.3" 
+[1] "labeling"
+version 
+"0.4.2" 
+[1] "GenomeInfoDb"
+ version 
+"1.28.4" 
+[1] "nlme"
+  version 
+"3.1-153" 
+[1] "ProtGenerics"
+ version 
+"1.24.0" 
+[1] "rlang"
+ version 
+"0.4.12" 
+[1] "globals"
+ version 
+"0.14.0" 
+[1] "lifecycle"
+version 
+"1.0.1" 
+[1] "miniUI"
+  version 
+"0.1.1.1" 
+[1] "filelock"
+version 
+"1.0.2" 
+[1] "BiocFileCache"
+version 
+"2.0.0" 
+[1] "modelr"
+version 
+"0.1.8" 
+[1] "polyclip"
+ version 
+"1.10-0" 
+[1] "cellranger"
+version 
+"1.1.0" 
+[1] "matrixStats"
+ version 
+"0.61.0" 
+[1] "lmtest"
+ version 
+"0.9-39" 
+[1] "graph"
+ version 
+"1.70.0" 
+[1] "Matrix"
+version 
+"1.3-4" 
+[1] "carData"
+version 
+"3.0-4" 
+[1] "zoo"
+version 
+"1.8-9" 
+[1] "reprex"
+version 
+"2.0.1" 
+[1] "ggridges"
+version 
+"0.5.3" 
+[1] "GlobalOptions"
+version 
+"0.1.2" 
+[1] "pheatmap"
+ version 
+"1.0.12" 
+[1] "png"
+version 
+"0.1-7" 
+[1] "viridisLite"
+version 
+"0.4.0" 
+[1] "rjson"
+ version 
+"0.2.20" 
+[1] "bitops"
+version 
+"1.0-7" 
+[1] "R.oo"
+ version 
+"1.24.0" 
+[1] "ConsensusClusterPlus"
+ version 
+"1.56.0" 
+[1] "KernSmooth"
+  version 
+"2.23-20" 
+[1] "Biostrings"
+ version 
+"2.60.2" 
+[1] "blob"
+version 
+"1.2.2" 
+[1] "shape"
+version 
+"1.4.6" 
+[1] "stringr"
+version 
+"1.4.0" 
+[1] "parallelly"
+ version 
+"1.29.0" 
+[1] "readr"
+version 
+"2.1.1" 
+[1] "rstatix"
+version 
+"0.7.0" 
+[1] "gridGraphics"
+version 
+"0.5-1" 
+[1] "S4Vectors"
+ version 
+"0.30.2" 
+[1] "ggsignif"
+version 
+"0.6.3" 
+[1] "scales"
+version 
+"1.1.1" 
+[1] "GSEABase"
+ version 
+"1.54.0" 
+[1] "memoise"
+version 
+"2.0.1" 
+[1] "magrittr"
+version 
+"2.0.1" 
+[1] "plyr"
+version 
+"1.8.6" 
+[1] "ica"
+version 
+"1.0-2" 
+[1] "zlibbioc"
+ version 
+"1.38.0" 
+[1] "compiler"
+version 
+"4.1.1" 
+[1] "BiocIO"
+version 
+"1.2.0" 
+[1] "bbmle"
+ version 
+"1.0.24" 
+[1] "RColorBrewer"
+version 
+"1.1-2" 
+[1] "clue"
+ version 
+"0.3-60" 
+[1] "DESeq2"
+ version 
+"1.32.0" 
+[1] "fitdistrplus"
+version 
+"1.1-6" 
+[1] "Rsamtools"
+version 
+"2.8.0" 
+[1] "cli"
+version 
+"3.1.0" 
+[1] "unikn"
+version 
+"0.4.0" 
+[1] "XVector"
+ version 
+"0.32.0" 
+[1] "listenv"
+version 
+"0.8.0" 
+[1] "EnsDb.Hsapiens.v79"
+ version 
+"2.99.0" 
+[1] "pbapply"
+version 
+"1.5-0" 
+[1] "patchwork"
+version 
+"1.1.1" 
+[1] "mgcv"
+ version 
+"1.8-38" 
+[1] "MASS"
+ version 
+"7.3-54" 
+[1] "tidyselect"
+version 
+"1.1.1" 
+[1] "stringi"
+version 
+"1.7.6" 
+[1] "forcats"
+version 
+"0.5.1" 
+[1] "emdbook"
+ version 
+"1.3.12" 
+[1] "yaml"
+version 
+"2.2.1" 
+[1] "locfit"
+  version 
+"1.5-9.4" 
+[1] "ggrepel"
+version 
+"0.9.1" 
+[1] "grid"
+version 
+"4.1.1" 
+[1] "tools"
+version 
+"4.1.1" 
+[1] "future.apply"
+version 
+"1.8.1" 
+[1] "parallel"
+version 
+"4.1.1" 
+[1] "circlize"
+ version 
+"0.4.13" 
+[1] "rstudioapi"
+version 
+ "0.13" 
+[1] "base"
+version 
+"4.1.1" 
+[1] "HGC"
+version 
+"1.0.3" 
+[1] "foreach"
+version 
+"1.5.1" 
+[1] "logging"
+   version 
+"0.10-108" 
+[1] "AUCell"
+ version 
+"1.14.0" 
+[1] "gridExtra"
+version 
+  "2.3" 
+[1] "farver"
+version 
+"2.1.0" 
+[1] "Rtsne"
+version 
+ "0.15" 
+[1] "digest"
+ version 
+"0.6.29" 
+[1] "shiny"
+version 
+"1.7.1" 
+[1] "Rcpp"
+version 
+"1.0.7" 
+[1] "egg"
+version 
+"0.4.5" 
+[1] "GenomicRanges"
+ version 
+"1.44.0" 
+[1] "car"
+ version 
+"3.0-12" 
+[1] "broom"
+ version 
+"0.7.10" 
+[1] "harmony"
+version 
+"0.1.0" 
+[1] "later"
+version 
+"1.3.0" 
+[1] "RcppAnnoy"
+ version 
+"0.0.19" 
+[1] "httr"
+version 
+"1.4.2" 
+[1] "Nozzle.R1"
+version 
+"1.1-1" 
+[1] "ggdendro"
+ version 
+"0.1.22" 
+[1] "AnnotationDbi"
+ version 
+"1.54.1" 
+[1] "ComplexHeatmap"
+version 
+"2.8.0" 
+[1] "psych"
+version 
+"2.1.9" 
+[1] "colorspace"
+version 
+"2.0-2" 
+[1] "tensor"
+version 
+  "1.5" 
+[1] "rvest"
+version 
+"1.0.2" 
+[1] "XML"
+   version 
+"3.99-0.8" 
+[1] "fs"
+version 
+"1.5.1" 
+[1] "reticulate"
+version 
+ "1.22" 
+[1] "graphics"
+version 
+"4.1.1" 
+[1] "IRanges"
+ version 
+"2.26.0" 
+[1] "splines"
+version 
+"4.1.1" 
+[1] "uwot"
+ version 
+"0.1.11" 
+[1] "yulab.utils"
+version 
+"0.0.4" 
+[1] "spatstat.utils"
+version 
+"2.2-0" 
+[1] "ggplotify"
+version 
+"0.1.0" 
+[1] "plotly"
+ version 
+"4.10.0" 
+[1] "xtable"
+version 
+"1.8-4" 
+[1] "jsonlite"
+version 
+"1.7.2" 
+[1] "sceasy"
+version 
+"0.0.6" 
+[1] "R6"
+version 
+"2.5.1" 
+[1] "stats"
+version 
+"4.1.1" 
+[1] "mime"
+version 
+ "0.12" 
+[1] "pillar"
+version 
+"1.6.4" 
+[1] "grDevices"
+version 
+"4.1.1" 
+[1] "htmltools"
+version 
+"0.5.2" 
+[1] "glue"
+version 
+"1.5.1" 
+[1] "fastmap"
+version 
+"1.1.0" 
+[1] "BiocParallel"
+ version 
+"1.26.2" 
+[1] "codetools"
+ version 
+"0.2-18" 
+[1] "mvtnorm"
+version 
+"1.1-3" 
+[1] "utf8"
+version 
+"1.2.2" 
+[1] "spatstat.sparse"
+version 
+"2.0-0" 
+[1] "lattice"
+  version 
+"0.20-45" 
+[1] "tibble"
+version 
+"3.1.6" 
+[1] "numDeriv"
+     version 
+"2016.8-1.1" 
+[1] "curl"
+version 
+"4.3.2" 
+[1] "leiden"
+version 
+"0.3.9" 
+[1] "magick"
+version 
+"2.7.3" 
+[1] "survival"
+ version 
+"3.2-13" 
+[1] "limma"
+ version 
+"3.48.3" 
+[1] "munsell"
+version 
+"0.5.0" 
+[1] "GetoptLong"
+version 
+"1.0.5" 
+[1] "GenomeInfoDbData"
+version 
+"1.2.6" 
+[1] "iterators"
+ version 
+"1.0.13" 
+[1] "reshape2"
+version 
+"1.4.4" 
+[1] "haven"
+version 
+"2.4.3" 
+[1] "gtable"
+version 
+"0.3.0" 
+[1] "methods"
+version 
+"4.1.1" 
+[1] "spatstat.core"
+version 
+"2.3-2" 
+[1] "Seurat"
+version 
+"4.0.5" 
